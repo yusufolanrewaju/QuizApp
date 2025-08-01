@@ -13,6 +13,12 @@ A modular console-based quiz application built in C#. Designed with clear object
 - Clean separation of logic and data
 
 
+## 🙋‍♂️ Author
+
+**Yusuf Olanrewaju**  
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/yusufolalere/)  
+I’m currently exploring the intersection of **coding**, **crypto**, and **learning**.
+
 
 ## 📁 Project Structure
 
@@ -23,8 +29,3 @@ QuizApp/
 └── Question.cs       # Data model and answer validation
 
 
-## 🙋‍♂️ Author
-
-**Yusuf Olanrewaju**  
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/yusufolalere/)  
-I’m currently exploring the intersection of **coding**, **crypto**, and **learning**.

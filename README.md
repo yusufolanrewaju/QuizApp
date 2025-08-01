@@ -25,7 +25,7 @@ I’m currently exploring the intersection of **coding**, **crypto**, and **lear
 ```bash
 QuizApp/
 ├── Program.cs        # Entry point of the app
-├── Quiz.cs           # Handles game flow, scoring, and interaction
+├── Quiz.cs           # Handles test flow, scoring, and interaction
 └── Question.cs       # Data model and answer validation
 
 

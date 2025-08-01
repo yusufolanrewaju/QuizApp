@@ -1,6 +1,6 @@
 ﻿# QuizApp 🎯
 
-A simple and modular console-based quiz application built in C#. Designed with clear object-oriented principles, this project serves as a foundation for interactive CLI games or test environments.
+A modular console-based quiz application built in C#. Designed with clear object-oriented principles, this project serves as a foundation for interactive CLI games or test environments.
 
 
 
